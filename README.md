@@ -1,11 +1,8 @@
-<center>
-<img src="./README_files/header.png"><p style="color: #666;">
-An example of a typical bag of words classification pipeline. Figure by <a href="http://www.robots.ox.ac.uk/~vgg/research/encoding_eval/">Chatfield et al.</a></p><p></p></center>
+
 
 <h1>Project 3: Scene recognition with bag of words<br>
 </h1> 
 
-Find my implementation result [here](https://github.com/coldmanck/Project-3-Scene-recognition-with-bag-of-words/blob/master/results/index.md).
  
 <h2>Brief</h2> 
 <p> 
